@@ -1,4 +1,5 @@
 Syarat dan Ketentuan Bot Discord "Bara_Bot_Project"
+
 **1. Pendahuluan**
 Yo, Sobat! Selamat datang di "Bara_Bot_Project". Dengan menggunakan bot ini, kalian setuju sama semua aturan yang ada di sini. Baca baik-baik ya, biar kita bisa happy-happy bareng!
 
